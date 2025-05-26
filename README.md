@@ -1,6 +1,6 @@
 # ProvaVisaoComputacional
 
-1 - Descrição do problema
+1 - Descrição do problema 
 Implementar um pipeline que contenha carregamento e processamento de imagens (redimensionamento, filtro gaussiano e equalização de historiograma), extrair as caracteristícas e fazer uma classificação usando um modelo de IA.
 
 2 - Justificativa das técnicas utilizadas
